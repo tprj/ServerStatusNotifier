@@ -1,0 +1,4 @@
+name: ServerStatusNotifier
+version: '${version}'
+main: xyz.tprj.serverstatusnotifier.ServerStatusNotifier
+api-version: 1.16

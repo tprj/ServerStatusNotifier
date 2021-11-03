@@ -1,0 +1,5 @@
+webhook: ""
+title: "Server Status"
+icon: ""
+up-message: "Server starting"
+down-message: "Server stopping"
